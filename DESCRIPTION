@@ -1,0 +1,9 @@
+Package: add
+Type: Package
+Title: Addition
+Version: 1.0
+Date: 2020-10-28
+Author: Robin K. S. Hankin
+Maintainer:  <hankin.robin@gmail.com>
+Description: Minimal package to add two numbers.
+License: GPL
